@@ -3,10 +3,11 @@
 <!-- [Game Development](game-development/home.md) -->
 [Game development]()
 
-* [Are you lost?](faq.md)
-* [Get started](get-started.md)
-* [Guides](guides.md)
-* [Gallery](gallery.md)
+* [Home](game-development/home.md)
+* [Are you lost?](game-development/faq.md)
+* [Get started](game-development/get-started.md)
+* [Guides](game-development/guides.md)
+* [Gallery](game-development/gallery.md)
 
 [Robotics](robotics/home.md)
 [Wearables](wearables/home.md)
