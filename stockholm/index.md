@@ -1,0 +1,1 @@
+![](http://i.toau-media.com/contentFiles/image/sydney/events/kids/kids-hack-day2.jpg)
