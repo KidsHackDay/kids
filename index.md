@@ -1,1 +1,1 @@
-[ ![](http://i.vimeocdn.com/video/450055777_640.jpg) ](/stockholm)
+[ ![](http://i.vimeocdn.com/video/450055777_640.jpg) ](stockholm)
