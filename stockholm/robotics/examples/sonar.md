@@ -14,13 +14,16 @@ Example of how to use a Sonar sensor to measure distance.
 
 
 ## Instructions
-Connect the 3 wires to the Sonar, the negative wire (recommended color: black) goes to ```Gnd```, the positive wire (recommended color: red) goes to ```Vcc```.
+#### 1. Connect the 3 male-female wires from the Arduino to the Sonar.
 
-The control wire (recommended color: anything but red or black) needs to connect to both ```Echo``` and ```Trigger```. You need need to bend the Sonar pins a little bit and force the jumper wire in. If you need any help please ask one of the facilitators.
+* The negative wire (recommended color: black) goes from ```GND``` on the Arduino to ```Gnd``` on the Sonar.
+* The positive wire (recommended color: red) goes to from ```5V``` on the Arduino to ```Vcc``` on the Sonar.
+* The control wire (recommended color: anything but red or black) goes from pin ```7``` on the Arduino, to both ```Echo``` and ```Trigger``` on the Sonar. You need need to bend the Sonar pins a little bit and force the jumper wire in. If you need any help please ask one of the facilitators.
 
-TODO: add picture of how to connect wires
+(TODO: add picture of how to connect wires to the Sonar) 
 
-After you program your board, open the Serial Monitor and see watch the Sonar values on the screen.
+#### 2. Open the Serial Monitor
+After you program your board, open the Serial Monitor and  watch the Sonar values appear on the screen.
 
 ##Code
 <iframe style="height: 510px; width: 100%; margin: 10px 0 10px;" allowTransparency="true" src="https://codebender.cc/embed/sketch:57083" frameborder="0"></iframe>
