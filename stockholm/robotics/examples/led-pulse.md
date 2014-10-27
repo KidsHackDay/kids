@@ -18,5 +18,4 @@ Example of how to make a Led pulsate like a wave.
 
 ##Exercise
 1. Change the ````wave.duration```` to different numbers. If you use a small number, will the led blink slower or faster?
-2. What happens if instead of using ```wave.out.connect(led.in);``` you use ```led.in.connect(wave.out);```?
-  1. Can you explain why does that happen?
+2. What happens if instead of using ```wave.out.connect(led.in);``` you use ```led.in.connect(wave.out);```? Can you explain why does that happen?
