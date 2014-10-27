@@ -9,7 +9,9 @@
 * [Guides](game-development/guides.md)
 * [Gallery](game-development/gallery.md)
 
+<!-- [Robotics](robotics/home.md) -->
 [Robotics]()
+
 * [Home](robotics/home.md)
 * [Getting Started](robotics/getting-started.md)
 * [Code Examples](robotics/code-examples.md)
