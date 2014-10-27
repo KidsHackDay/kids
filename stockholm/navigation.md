@@ -12,7 +12,7 @@
 <!-- [Robotics](robotics/home.md) -->
 [Robotics]()
 
-* [Home](robotics/home.md)
+* [Home](robotics/index.md)
 * [Getting Started](robotics/getting-started.md)
 * [Code Examples](robotics/code-examples.md)
 * [API Documentation](robotics/api.md)
