@@ -1,4 +1,4 @@
-[❮ Back to examples](../code-examples.md)
+[❮ Back to examples](http://kidshackday.github.io/kids/stockholm/#!robotics/code-examples.md)
 
 #Led
 
