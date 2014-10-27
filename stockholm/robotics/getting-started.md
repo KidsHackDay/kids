@@ -32,10 +32,10 @@ Follow the intructions on the screen to install all necessarry browser plugins a
 
 #### 4.1 Connect the Arduino to the computer
 
-If you are a participant in the KHD club you probably already got your Arduino board, if not, ask any onf the facilitator for one one them.
+If you are a participant in the KHD club you probably already got your Arduino board, if not, ask the facilitators for one.
 
 #### 4.2 Select the correct board
-Select the "Arduino Uno" board. It should be the first name on the list!
+Select the ````Arduino Uno```` board. It should be the first name on the list!
 
 #### 4.3 Select the correct port
 If you are on a Mac: it should be something like ````/dev/cu.usbmodem1421````.
@@ -43,5 +43,9 @@ If you are on Windows: it should be something like ````COM````.
 If you are on Linux: it should be something like ````? TODO : figure this out````.
 
 ## Logging in
+If you are already registered on Github and Codebender and is comming back to use the site:
+* Sign in to [Github](http://github.com)
+* Sign in to [Codebender](http://codebender.cc) with Github. 
 
 ## Running code
+To start playing with code, please go to our [Code Examples](code-examples.md) section.
