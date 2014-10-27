@@ -14,7 +14,7 @@ Example of how to use a Sonar sensor to measure distance.
 
 
 ## Instructions
-Connect the 3 wires to the Sonar, the negative wire (recommended color: black) goes to ```Gnd```, the positive wire goes to ```Vcc``` (recommended color: red).
+Connect the 3 wires to the Sonar, the negative wire (recommended color: black) goes to ```Gnd```, the positive wire (recommended color: red) goes to ```Vcc```.
 
 The control wire (recommended color: anything but red or black) needs to connect to both ```Echo``` and ```Trigger```. You need need to bend the Sonar pins a little bit and force the jumper wire in. If you need any help please ask one of the facilitators.
 
@@ -29,5 +29,5 @@ After you program your board, open the Serial Monitor and see watch the Sonar va
 <iframe style="height: 510px; width: 100%; margin: 10px 0 10px;" allowTransparency="true" src="https://codebender.cc/embed/serialmonitor" frameborder="0"></iframe>
 
 ##Exercise
-1. How far can the Sonar "see"? Try to point the Sonar to different obejcts.
-2. How do you think the Sonar works?
+1. How do you think the Sonar works? A tip: it's the same technique bats use to "see in the dark".
+2. How far can the Sonar "see"? Stay in front if the Sonar and move back slowly and see if the values change.
