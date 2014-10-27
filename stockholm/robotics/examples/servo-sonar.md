@@ -16,7 +16,7 @@ Example of how to use a Sonar sensor to control the movements of a Servo Motor
 
 
 ## Instructions
-#### Connect the 3 male-female wires from the Arduino to the Sonar.
+##### Connect the 3 male-female wires from the Arduino to the Sonar.
 
 * The negative wire (recommended color: black) goes from ```GND`` on the Arduino to ```Gnd``` on the Sonar.
 
@@ -26,7 +26,7 @@ Example of how to use a Sonar sensor to control the movements of a Servo Motor
 
 TODO: add picture of how to connect wires
 
-#### Connect the wires male-male wires from the Arduino to the Servo.
+##### Connect the wires male-male wires from the Arduino to the Servo.
 
 * The negative wire goes from ```GND``` on the Arduino to the ```black/brown wire``` on the Servo.
  
@@ -34,7 +34,7 @@ TODO: add picture of how to connect wires
 
 * The control wire goes from pin ```8``` on the Arduino to the ```yellow wire``` on the Servo.
 
-Run the code!
+##### Run the code!
 
 ##Code
 <iframe style="height: 510px; width: 100%; margin: 10px 0 10px;" allowTransparency="true" src="https://codebender.cc/embed/sketch:57083" frameborder="0"></iframe>
