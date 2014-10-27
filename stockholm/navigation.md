@@ -10,6 +10,11 @@
 * [Gallery](game-development/gallery.md)
 
 [Robotics](robotics/home.md)
+* [Home](robotics/home.md)
+* [Getting Started](robotics/getting-started.md)
+* [Code Examples](robotics/code-examples.md)
+* [API Documentation](robotics/api.md)
+
 [Wearables](wearables/home.md)
 [Blog](blog.md)
 [All clubs](/club)
