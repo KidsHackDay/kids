@@ -22,7 +22,7 @@ Example of how to use a Sonar sensor to control the movements of a Servo Motor
 * The positive wire (recommended color: red) goes to from ```5V``` on the Arduino to ```Vcc``` on the Sonar.
 * The control wire (recommended color: anything but red or black) goes from pin ```7``` on the Arduino, to both ```Echo``` and ```Trigger``` on the Sonar. You need need to bend the Sonar pins a little bit and force the jumper wire in. If you need any help please ask one of the facilitators.
 
-TODO: add picture of how to connect wires
+(TODO: add picture of how to connect wires to the Sonar) 
 
 #### 2. Connect the wires male-male wires from the Arduino to the Servo.
 
