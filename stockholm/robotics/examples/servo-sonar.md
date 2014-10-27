@@ -34,7 +34,6 @@ Example of how to use a Sonar sensor to control the movements of a Servo Motor
 
 ##Code
 <iframe style="height: 510px; width: 100%; margin: 10px 0 10px;" allowTransparency="true" src="https://codebender.cc/embed/sketch:57083" frameborder="0"></iframe>
-<iframe style="height: 510px; width: 100%; margin: 10px 0 10px;" allowTransparency="true" src="https://codebender.cc/embed/serialmonitor" frameborder="0"></iframe>
 
 ##Exercise
 1. Can you use the servo to move something from far away?
