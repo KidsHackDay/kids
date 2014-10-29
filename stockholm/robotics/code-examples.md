@@ -14,4 +14,4 @@ If you want to edit the code, you will need to click on the "Clone & Edit" butto
 5. [Servo controlled by Sonar](examples/servo-sonar.md)
 
 Attention: In case you see some unexpected errors after cloning the examples, you might need to reinstall the Quirkbot library manually. To do so, download it and upload it on the "Personal Libraries" area of your profile page on Codebender.
-[Quirkbot Library - Download](https://github.com/KidsHackDay/Quirkbot/archive/master.zip)
+[↓ Download Quirkbot Library](https://github.com/KidsHackDay/Quirkbot/archive/master.zip)
