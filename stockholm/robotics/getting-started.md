@@ -36,9 +36,9 @@ If you are a participant in the KHD club you probably already got your Arduino b
 Select the ````Arduino Uno```` board. It should be the first name on the list!
 
 ##### 4.3 Select the correct port
-If you are on a Mac: it should be something like ````/dev/cu.usbmodem1421````.
-If you are on Windows: it should be something like ````COM````.
-If you are on Linux: it should be something like ````? TODO : figure this out````.
+* If you are on a Mac: it should be something like ````/dev/cu.usbmodem1421````.
+* If you are on Windows: it should be something like ````COM````.
+* If you are on Linux: it should be something like ````? TODO : figure this out````.
 
 ## Logging in
 If you are already registered on Github and Codebender and is comming back to use the site:
