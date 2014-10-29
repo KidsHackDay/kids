@@ -4,7 +4,7 @@ This tutorial will guide you on how to get started with [Codebender](http://code
 ## Signing up
 ### 1. Get a Github account 
 ##### 1.1 Register
-To be able to edit this wiki and get acccess to a lot of the material we produce at KHD you will need a Github account. To get one, just head to (github.com)[http://github.com] and register right of the start page. The registration looks like this: ![](https://cloud.githubusercontent.com/assets/122277/4787252/d386671c-5da7-11e4-93c6-161ee34170a3.png)
+To be able to edit this wiki and get acccess to a lot of the material we produce at KHD you will need a Github account. To get one, just head to [github.com](http://github.com) and register right of the start page. The registration looks like this: ![](https://cloud.githubusercontent.com/assets/122277/4787252/d386671c-5da7-11e4-93c6-161ee34170a3.png)
 
 ##### 1.2 Set a public e-mail
 In order to connect to Codebender, you will need to setup a public e-mail address. To do that go to "settings" (a gear icon on the top right corner of the page:
