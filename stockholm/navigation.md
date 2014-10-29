@@ -19,6 +19,6 @@
 
 [Wearables](wearables/home.md)
 [Blog](blog.md)
-[All clubs](/club)
+[All clubs](/kids)
 
 [gimmick:theme (inverse: false)](cerulean)
