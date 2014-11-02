@@ -3,11 +3,11 @@
 <!-- [Game Development](game-development/home.md) -->
 [Game development]()
 
-<!--* [Home](game-development/home.md)
+* [Home](game-development/home.md)
 * [Are you lost?](game-development/faq.md)
 * [Get started](game-development/get-started.md)
 * [Guides](game-development/guides.md)
-* [Gallery](game-development/gallery.md)-->
+* [Gallery](game-development/gallery.md)
 
 <!-- [Robotics](robotics/home.md) -->
 [Robotics]()
