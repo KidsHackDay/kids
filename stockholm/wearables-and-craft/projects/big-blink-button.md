@@ -119,11 +119,41 @@ And solder it, using the same technique used before.
 
 ![img_2345](https://cloud.githubusercontent.com/assets/122277/4900050/421c46da-6422-11e4-9678-5e36f2bc7917.JPG)
 
+## Attach the battery to the copper tape
+
+Use tape just **around** the battery, keeping the connection exposed
+
+Attention! Make sure the battery is in the same position as in the image, otherwise the lights won't work. Leds are polarized!
 
 ![img_2346](https://cloud.githubusercontent.com/assets/122277/4900051/4224017c-6422-11e4-8987-6692b8c347bf.JPG)
+
 ![img_2347](https://cloud.githubusercontent.com/assets/122277/4900053/422b25d8-6422-11e4-9644-9d771efde65a.JPG)
 
+## Test your connection
+
+At this point try to place the 2 pieces of cardboard together and test the connection. The leds should light up when press the cardboards together.
+
+## Improve the connector
+
+If you notice the lights don't light up properly, you might need some extra connectivity.
+
+Roll a pice of copper tape (keep the sticky side inside, as it doesn't conduct eletricity) and attach it to the battery using tape. Test again. You might need to adjust it until it's perfect.
+
 ![img_2348](https://cloud.githubusercontent.com/assets/122277/4900052/422a5310-6422-11e4-8e0e-f5f759808906.JPG)
+
 ![img_2349](https://cloud.githubusercontent.com/assets/122277/4900054/422eab86-6422-11e4-94c0-3bb73a8e7864.JPG)
 
+## Attach the 2 pieces of cardboard
+
+Use double sided tape just like before.
+
 ![img_2350](https://cloud.githubusercontent.com/assets/122277/4900055/423c0790-6422-11e4-9ef0-1180a72774f3.JPG)
+
+![](https://cloud.githubusercontent.com/assets/122277/4900530/3cb30cc8-6428-11e4-998b-1069a2aa996e.png)
+
+## Finishing
+
+Place some black tape around the edges to make it look perfect!
+
+TODO: add reference image
+
