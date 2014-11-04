@@ -54,7 +54,7 @@ Use the template as a reference, draw around it using a pen.
 
 ## Insert the leds in the holes
 
-Attention! The long leg (positive) needs to go on the **outer** side of the cardboard. Use the picture bellow as a reference.
+Attention! The longer leg of the led (positive) needs to go on the **outer** side of the cardboard. Use the picture bellow as a reference.
 
 ![img_2331](https://cloud.githubusercontent.com/assets/122277/4900037/41df8cae-6422-11e4-880a-d90fc2d84c46.JPG)
 
@@ -64,24 +64,61 @@ When you are done inserting all the leds, fold their legs so they are secured:
 
 ![img_2333](https://cloud.githubusercontent.com/assets/122277/4900040/41ebe756-6422-11e4-90d8-7eb7625b73de.JPG)
 
+## Using the double sided tape, attach the small cardboard pieces
+
+They should go in the space between the leds
+
 ![img_2335](https://cloud.githubusercontent.com/assets/122277/4900042/41f256d6-6422-11e4-9f81-f3ffd20654f6.JPG)
+
+## Cut 2 pieces of wire
+
+They should be a big bigger than the amount needed to go around the circle
 
 ![img_2334](https://cloud.githubusercontent.com/assets/122277/4900038/41e56a8e-6422-11e4-98b8-0e6849e8e0e0.JPG)
 
+## Place the wire around the positive side of the leds
+
+* Secure one of the ends of the wire with tape
+* Leave the other end a bit longer
+
 ![img_2336](https://cloud.githubusercontent.com/assets/122277/4900041/41f19782-6422-11e4-8b06-0059b1cda5d2.JPG)
+
 ![img_2337](https://cloud.githubusercontent.com/assets/122277/4900049/421ba662-6422-11e4-9b30-94ba71300471.JPG)
 
+## Solder the wire
+
+Attention! Don't do this whith the supervision of one of the facilitators 
+
 ![img_2339](https://cloud.githubusercontent.com/assets/122277/4900043/41fc6a5e-6422-11e4-8344-5eb058b170ef.JPG)
+
 ![img_2340](https://cloud.githubusercontent.com/assets/122277/4900044/42059598-6422-11e4-8203-7bcaf349c0d9.JPG)
+
+## Place the second wire and solder it
+
+Use the image bellow as a reference
 
 ![img_2341](https://cloud.githubusercontent.com/assets/122277/4900045/420bd9c6-6422-11e4-8d80-02d76cee8048.JPG)
 
+## Attach a pice of copper tape to the cardboard
+
+Attention! The tape must be under the **inner** wire
+
 ![img_2342](https://cloud.githubusercontent.com/assets/122277/4900046/420e917a-6422-11e4-829f-3afe2cf79baa.JPG)
+
+## Solder the wire to the tape
+
+Use a piece of tape to make sure the wire is really close to the tape
+
 ![img_2343](https://cloud.githubusercontent.com/assets/122277/4900047/420edcc0-6422-11e4-906b-ca1fafcbc02a.JPG)
+
+## Place some copper tape on the other cardboard
+
+And solder it, using the same technique used before.
 
 ![img_2344](https://cloud.githubusercontent.com/assets/122277/4900048/421736c2-6422-11e4-9e35-c3d8e4d1de11.JPG)
 
 ![img_2345](https://cloud.githubusercontent.com/assets/122277/4900050/421c46da-6422-11e4-9678-5e36f2bc7917.JPG)
+
 
 ![img_2346](https://cloud.githubusercontent.com/assets/122277/4900051/4224017c-6422-11e4-8987-6692b8c347bf.JPG)
 ![img_2347](https://cloud.githubusercontent.com/assets/122277/4900053/422b25d8-6422-11e4-9644-9d771efde65a.JPG)
