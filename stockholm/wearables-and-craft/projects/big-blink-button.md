@@ -21,9 +21,9 @@ A cool big button that blinks when you press it.
 
 ![](https://cloud.githubusercontent.com/assets/122277/4900022/313e71c6-6422-11e4-9f98-8ac7eccab1f4.JPG)
 
-#Steps
+----------------------------------------------------
 
-# Glue template to cardboard
+## Glue template to cardboard
 Apply some spray glue to the template and attach it to the cardboard.
 
 Attention! Apply the spray in an open area and cover the surfaces around it, otherwise you will make a mess!
