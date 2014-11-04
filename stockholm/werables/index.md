@@ -1,3 +1,3 @@
 #Wearables and craft
 ###[Projects]()
-* [Big blink button](projexts/big-blink-button.md)
+* [Big blink button](projects/big-blink-button.md)
