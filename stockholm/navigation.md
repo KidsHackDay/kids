@@ -17,7 +17,7 @@
 * [Code Examples](robotics/code-examples.md)
 * [API Documentation](robotics/api.md)
 
-[Wearables](wearables/index.md)
+[Wearables & Craft](wearables-and-craft/index.md)
 [Blog](blog.md)
 [All clubs](/kids)
 
