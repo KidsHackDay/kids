@@ -137,6 +137,28 @@ And you can call all them at once separating your calls with a `;`:
 
 ## How to spawn mobs?
 
+### Save the world
+
+Save the world in a variable like:
+`/js var muriloWorld`
+
+### Save what entity you want to spawn
+
+Then you have to save what kind of entity you want to spawn in another variable, for example:
+`/js var muriloVillager = org.bukkit.entity.EntityType.VILLAGER`
+
+Some interesting mobs and loot you can spawn:
+- org.bukkit.entity.EntityType.FIREWORK
+- org.bukkit.entity.EntityType.PIG_ZOMBIE
+- org.bukkit.entity.EntityType.SNOWBALL
+- org.bukkit.entity.EntityType.WITHER
+- org.bukkit.entity.EntityType.MINECART
+- org.bukkit.entity.EntityType.GHAST
+- org.bukkit.entity.EntityType.IRON_GOLEM
+
+The list with all the possible mobs you can spawn is [here](http://jd.bukkit.org/rb/apidocs/org/bukkit/entity/EntityType.html)
+
+
 `/js w = self.getWorld()`
 `/js w.spawnCreature( self.getLocation().add( 1, 0, 0 ), org.bukkit.entity.EntityType.VILLAGER )`
 
