@@ -140,7 +140,7 @@ And you can call all them at once separating your calls with a `;`:
 ### Save the world
 
 Save the world in a variable like:
-`/js var muriloWorld`
+`/js var muriloWorld = self.getWorld()`
 
 ### Save what entity you want to spawn
 
@@ -158,8 +158,8 @@ Some interesting mobs and loot you can spawn:
 
 The list with all the possible mobs you can spawn is [here](http://jd.bukkit.org/rb/apidocs/org/bukkit/entity/EntityType.html)
 
+### Spawn the monster
 
-`/js w = self.getWorld()`
-`/js w.spawnCreature( self.getLocation().add( 1, 0, 0 ), org.bukkit.entity.EntityType.VILLAGER )`
+`/js muriloWorld.spawnCreature( self.getLocation().add( 1, 0, 0 ), muriloVillager )`
 
 [This is where I found everything](http://dullahansoftware.wordpress.com/2013/02/11/scriptcrafting-a-quest-in-minecraft/)
