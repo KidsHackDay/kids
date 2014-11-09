@@ -134,3 +134,10 @@ To execute your code you need to call them just like that:
 And you can call all them at once separating your calls with a `;`:
 
 	/js myFunction1();myFunction2();myFunction3();
+
+## How to spawn mobs?
+
+`/js w = self.getWorld()`
+`/js w.spawnCreature( self.getLocation().add( 1, 0, 0 ), org.bukkit.entity.EntityType.VILLAGER )`
+
+[This is where I found everything](http://dullahansoftware.wordpress.com/2013/02/11/scriptcrafting-a-quest-in-minecraft/)
